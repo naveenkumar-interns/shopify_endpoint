@@ -1,0 +1,13 @@
+langchain
+pandas
+python-dotenv
+tiktoken
+jq
+beautifulsoup4
+langchain-google-genai
+faiss-cpu
+fastapi
+uvicorn
+sentence-transformers
+langchain-community
+langchain-huggingface
